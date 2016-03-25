@@ -1,0 +1,1 @@
+require('./hello.es6');
